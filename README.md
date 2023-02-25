@@ -4,4 +4,4 @@
 
 Условия задачи - в файле *Final_certification-task_conditions.pdf* 
 
-Пул-реквесты на изменение - от пользователя *github.com/PaulMart85*
+Пул-реквесты на изменение - от пользователя [PaulMart85](github.com/PaulMart85/ "Ссылка на аккаунт разработчика")
