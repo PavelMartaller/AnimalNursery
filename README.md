@@ -10,3 +10,4 @@
 
 1. ![Решение пункта 1](Images/Task1.jpg "Task1")
 2. ![Решение пункта 2](Images/Task2.jpg "Task2")
+3. ![Решение пункта 3](Images/Task3.jpg "Task3")
