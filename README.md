@@ -13,3 +13,4 @@
 3. ![Решение пункта 3](Images/Task3.jpg "Task3")
 4. ![Решение пункта 4](Images/Task4.jpg "Task4")
 5. ![Решение пункта 5](Images/Task5.jpg "Task5")
+6.  [Диаграмма классов](Diagrams/ClassDiagram.drawio "Task6")
