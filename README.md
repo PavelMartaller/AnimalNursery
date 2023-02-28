@@ -14,3 +14,4 @@
 4. ![Решение пункта 4](Images/Task4.jpg "Task4")
 5. ![Решение пункта 5](Images/Task5.jpg "Task5")
 6.  [Диаграмма классов](Diagrams/ClassDiagram.drawio "Task6")
+7. - 12. Работа с БД [MansFriendsDB](MansFriendsDB.sql "Task7-12")
